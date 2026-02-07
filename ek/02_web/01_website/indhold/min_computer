@@ -21,12 +21,12 @@
 </header>
 
 <main>
-    <h1>Velkommen til mit website</h1>
-
-    <h2>Introduktion</h2>
-    <p>Her skriver du den udleverede tekst.</p>
-
-    <img src="billede.jpg" alt="Beskrivelse af billedet">
+    <h1>Min computer</h1>
+             <img src="billede.jpg" alt="dummy">    
+    <h2>Type</h2>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+    <h2>Specifikationer</h2>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
 </main>
 
 <footer>
